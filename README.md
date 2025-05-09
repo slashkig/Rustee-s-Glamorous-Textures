@@ -13,14 +13,14 @@ Thank you so much for checking my stuff out! If you need to ask me about my work
 
 To DO List:
 - UIs (12/21)
-> Loom
-> Chest, Ender Chest, Large Chest, Barrel
-> Enchanting Table
-> Beacon
-> Grindstone
-> Stonecutter
+> Loom,
+> Chest, Ender Chest, Large Chest, Barrel,
+> Enchanting Table,
+> Beacon,
+> Grindstone,
+> Stonecutter,
 
 - Items
-> Chainmail Armor Set (0/4)
-> Turtle Shell
-> Clock (0/64)
+> Chainmail Armor Set (0/4),
+> Turtle Shell,
+> Clock (0/64),
